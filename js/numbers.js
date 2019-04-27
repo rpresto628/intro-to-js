@@ -37,6 +37,6 @@ console.log(mod);
 var mod = b % c;
 console.log(mod);
 
-var e = '5';
-console.log(e);
+var e = '5'; // not a number but is a string (another type of data. something that is wrapped inside "" or '').
+console.log(e); // returns the type of variable e
 
